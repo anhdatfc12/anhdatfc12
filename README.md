@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anhdatfc12
-- 👀 I’m interested in learning coding forex robot
-- 🌱 I’m currently learning python and mtq4,mtq5
-- 💞️ I’m looking to collaborate on a class
+- 👀 I’m interested in learning coding 
+- 🌱 I’m currently learning python and c++
+- 💞️ I’m looking to study 
 - 📫 How to reach me email:khoatran@myschool.host
 
 <!---
